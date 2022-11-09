@@ -1,0 +1,2 @@
+# haffman
+Haffman Archiever Algorithm
